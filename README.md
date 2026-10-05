@@ -22,10 +22,10 @@ Understand what an API is, and how to use it to gather data.
 
 | Topic | About |
 | ------ | ------ |
-| [Full Lesson Deck](./01-slides/)| A walkthrough of what APIs are and how to use them |
-| [02 APIs marketing strategy notebook](./02-APIs-marketing-strategy/) | A demonstration of how to get data from APIs, and some practice too |
-| [03 APIs financial markets notebook](./03-APIs-financial-markets/) | An exercuse to practice gathering data from APIs and saving them to `pandas` `DataFrames` |
-| [04 Crimes Minilab notebook](./04-mini-lab-crimes/) | An optional additional exercise to help practice analytical skillls using APIs and `pandas`|
+| [Full Lesson Deck](https://github.com/ga-curriculum/eda-apis/blob/main/01-slides/EDA-APIs.pdf){:target="_blank"}| A walkthrough of what APIs are and how to use them |
+| [02 APIs marketing strategy notebook](https://github.com/ga-curriculum/eda-apis/tree/main/02-APIs-marketing-strategy){:target="_blank"} | A demonstration of how to get data from APIs, and some practice too |
+| [03 APIs financial markets notebook](https://github.com/ga-curriculum/eda-apis/tree/main/03-APIs-financial-markets){:target="_blank"} | An exercuse to practice gathering data from APIs and saving them to `pandas` `DataFrames` |
+| [04 Crimes Minilab notebook](https://github.com/ga-curriculum/eda-apis/tree/main/04-mini-lab-crimes){:target="_blank"} | An optional additional exercise to help practice analytical skillls using APIs and `pandas`|
 
 
 ## Prerequisites
